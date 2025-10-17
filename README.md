@@ -1,5 +1,6 @@
 # Active-Directory-Lab
 ***Description***
+
 This lab simulates an **Active Directory (AD DS)** network environment including a **Domain Controller** on **Windows Server 2019** and a **Windows 10 Pro client**. It demonstrates managing **Users, Computers, Groups, and Organizational Units (OU)** with **Group Policy Objects (GPO)** to apply security configurations and practice real-world Active Directory administration
 
 ***Objectives***:
